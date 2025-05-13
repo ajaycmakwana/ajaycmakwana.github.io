@@ -8,9 +8,13 @@ Schemas are organized using the following folder structure:
 
 .
 └── com.company
+
     └── custom_event
+
         └── jsonschema
+
             └── 1-0-0.json
+            
 
 Each schema follows the pattern:
 ```
